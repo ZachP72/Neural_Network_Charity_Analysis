@@ -18,3 +18,6 @@ variable(s) that are considered to be the features for your model
 What variable(s) are neither targets nor features were removed
 
 - First features we drop are the 'EIN' & 'NAME' because we expect both features to have little to do with our outcome.
+
+## Compiling, Training, and Evaluating
+
