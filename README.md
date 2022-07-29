@@ -32,3 +32,4 @@ Was the model able to achieve the target model performance?
 What steps were taken to try and increase model performance?
 
 - Some of the steps I took to try and make the model more accurate were adding hidden layers, changing the activation type, changing the number of epochs and changing the number of neurons in each layer.
+
